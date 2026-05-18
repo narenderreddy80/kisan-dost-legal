@@ -1,3 +1,8 @@
+---
+layout: default
+title: Kisan Dost — Legal Documents
+---
+
 # Kisan Dost — Legal Documents
 
 ---
