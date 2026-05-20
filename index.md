@@ -5,6 +5,8 @@ title: Kisan Dost — Legal Documents
 
 # Kisan Dost — Legal Documents
 
+- [Delete Account / Request Data Deletion](delete-account.html)
+
 ---
 
 # TERMS OF USE FOR KISAN DOST
