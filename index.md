@@ -11,7 +11,7 @@ title: Kisan Dost — Legal Documents
 
 # TERMS OF USE FOR KISAN DOST
 
-_Last updated: 2026-05-18_
+_Last updated: 2026-11-16_
 
 ## 1. Introduction
 
@@ -70,6 +70,15 @@ You agree **NOT** to:
 - Upload images or videos that contain personally identifiable information of others without consent.
 
 Violation may result in immediate termination of your account and legal action.
+
+### Community rules and user content
+
+Kisan Dost lets users post questions, tips, photos, videos, marketplace listings and messages. We have **no tolerance for objectionable content or abusive users**. You must not post or send anything that is hateful, harassing, threatening, sexually explicit, violent, misleading, fraudulent, infringing or illegal.
+
+- **Reporting.** Use the menu (three dots or flag icon) next to a post, listing, video or message and choose **Report**. You can also email info@mitteeseeds.com.
+- **Blocking.** Choose **Block** on any content to hide everything from that person and stop messages between you. You can unblock under **Profile > Blocked users**.
+- **Our response.** We review every report within 24 hours. Content that breaks these rules is removed, and the account of the person who posted it can be suspended or deleted. We may remove content or accounts without notice.
+- **Your content.** You are responsible for what you post.
 
 ---
 
@@ -131,7 +140,7 @@ You agree to indemnify, defend, and hold harmless the Company and its officers, 
 
 ## 10. Third-Party Services and Links
 
-The App may contain links to third-party websites, services, or advertisements (e.g., Google AdMob). We do not control or endorse these third parties, and we are not responsible for their privacy practices or content. Your interactions with third parties are solely between you and them.
+The App may contain links to third-party websites and services. The App does not currently show third-party advertising. We do not control or endorse these third parties, and we are not responsible for their privacy practices or content. Your interactions with third parties are solely between you and them.
 
 ---
 
@@ -179,7 +188,7 @@ These Terms, together with the Privacy Policy, constitute the entire agreement b
 
 # PRIVACY POLICY FOR KISAN DOST
 
-_Last updated: 2026-05-18_
+_Last updated: 2026-11-16_
 
 ## 1. Introduction
 
@@ -206,6 +215,7 @@ By using the App, you consent to the data practices described in this policy.
 ### B. Information Collected Automatically
 
 - **Device location** — used while the app is in use, to show local weather and mandi prices, and to centre maps when adding a field. Coarse and fine location.
+- **Background location for Field Staff Tracking (optional)** — for people who work for an organisation. It is **off by default**. If you switch it on, the app records your location while it is in the background so your organisation can see the field visits you completed. You can switch it off at any time, and it stops when you do.
 - **Location Data**: GPS coordinates (with your permission) to provide weather, market prices, and satellite imagery for your fields.
 - **Usage Data**: App features you use, timestamps, clickstream, crash logs (via analytics tools like Firebase).
 - **Photos/Media**: When you use the crop analyzer, we process the image or video file on our servers to generate the AI result. We may retain anonymized images to improve the model.
@@ -217,7 +227,6 @@ By using the App, you consent to the data practices described in this policy.
 - **Satellite Data Providers** (Sentinel Hub, Planet): Provide imagery based on your field polygon.
 - **Market Price APIs** (www.data.gov.in).
 - **Weather APIs** (e.g., OpenWeatherMap, IMD).
-- **Authentication**: If you later allow sign-in via Google/Facebook, we receive your name and email as per their permissions.
 
 ---
 
@@ -260,7 +269,9 @@ We do not sell your personal data. We may share your information in the followin
 
 - **Railway** — hosting and database provider (US/EU regions).
 - **Google Firebase** — Crashlytics, Analytics, Cloud Messaging, Phone Auth.
-- **Anthropic / Google AI** — crop image and video analysis prompts. Images may be transmitted to these providers for inference; they do not train on your data per their default API terms.
+- **Apple (App Store)** — purchases made with Apple in-app purchase are processed by Apple. We receive confirmation of the purchase (product, date and status), not your payment details.
+- **Razorpay** — payments for expert consultations are processed by Razorpay. We receive the payment status and amount, not your card or UPI details.
+- **Anthropic / Google AI** — crop image and video analysis prompts. Images may be transmitted to these providers for inference; they do not train on your data per their default API terms. The App asks for your permission before any photo or video is sent for AI analysis, and you can decline and keep using the rest of the App.
 - **EOSDA** — satellite imagery for your registered field polygons (field coordinates only).
 - **Open-Meteo + Nominatim** — anonymous weather and reverse-geocoding lookups (lat/long only).
 - **data.gov.in (AGMARKNET)** — anonymous mandi price queries.
@@ -281,9 +292,9 @@ We do not sell your personal data. We may share your information in the followin
 
 ## 6. Data Retention
 
-We retain your personal information as long as your account is active or as needed to provide you services. After account deletion:
+We retain your personal information as long as your account is active or as needed to provide you services. When you delete your account in the App, it is closed immediately and you are signed out. For 30 days you can ask us to restore it by emailing info@mitteeseeds.com. After that, your personal data is permanently erased and cannot be recovered, and in any case within 90 days of your request. This includes your name, phone number, email, address, fields, crop photos, posts and favourites. After account deletion:
 
-- Account data (name, phone, land details) will be deleted within 90 days.
+- Records that other people or the law depend on (chats, consultations, orders, listings, ratings, subscriptions and payments) are kept for the periods below, linked only to an anonymous account with no name, phone number or email.
 - Anonymised crop scan images and AI analysis results may be retained to improve our algorithms.
 - Marketplace transaction records may be retained for 7 years per tax laws.
 - Chat logs and video call recordings (if any) will be deleted after 6 months unless required for legal proceedings.
@@ -294,7 +305,7 @@ We retain your personal information as long as your account is active or as need
 
 | Data | Retention period |
 |---|---|
-| Account data | While your account exists (deletable on request) |
+| Account data | While your account exists. After you delete your account it is locked at once and can be restored within 30 days by emailing info@mitteeseeds.com; after 30 days it is erased |
 | Crop analysis history | While your account exists |
 | Mandi price history per slice | 180 days rolling |
 | Mandi slice query rows | 90 days idle, then auto-purged |
@@ -308,7 +319,7 @@ We retain your personal information as long as your account is active or as need
 You have the following rights regarding your personal data:
 
 - **Access and rectification**: You can view and update your profile and land details in the App.
-- **Deletion**: You may request account deletion by contacting our Grievance Officer. Some data may be retained as required by law.
+- **Deletion**: You can delete your account in the App under Profile > Delete account. You can also email info@mitteeseeds.com or contact our Grievance Officer. You can restore a deleted account within 30 days by emailing us. Some data may be retained as required by law.
 - **Opt-out of analytics**: You can disable analytics tracking via your device's app settings.
 - **Location permissions**: You can enable/disable GPS location via your device settings. However, some features (e.g., weather, satellite view) may not work properly.
 - **Withdraw consent**: For any processing based on your consent, you may withdraw it by emailing us. Withdrawal may affect your ability to use certain features.
